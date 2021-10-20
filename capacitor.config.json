@@ -1,0 +1,13 @@
+{
+  "appId": "com.ionic_course_angular.app",
+  "appName": "ionic-angular-course2",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
